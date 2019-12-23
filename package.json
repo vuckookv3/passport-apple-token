@@ -1,0 +1,20 @@
+{
+  "name": "passport-apple-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "passport",
+    "apple",
+    "token"
+  ],
+  "author": "Marko Vucetic <vuckoo@hotmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "passport-strategy": "^1.0.0",
+    "request": "^2.88.0"
+  }
+}
